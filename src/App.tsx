@@ -1,12 +1,24 @@
 
 import './App.css'
+import About from './components/home/about'
+import Banner from './components/home/banner'
+import Footer from './components/home/footer'
+import Hero from './components/home/hero'
+import ListCategory from './components/home/listcategory'
+import Navbar from './components/home/navbar'
+import Qna from './components/home/qna'
 
 function App() {
 return (
   <>
-  <div className="p-3 bg-blue-600">
-  <h1 className='text-white'>Test</h1>
-  </div>
+<Navbar/>
+<Hero/>
+<About/>
+<ListCategory/>
+<Qna/>
+<Banner/>
+<Footer/>
+
   </>
 )
 }
