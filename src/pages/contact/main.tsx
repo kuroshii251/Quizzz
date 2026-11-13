@@ -14,15 +14,11 @@ export default function Contact(){
         <a href="" className="flex items-center gap-3 shadow shadow-black w-75 p-4 rounded-xl">
   <i className="fa-brands fa-github text-xl"></i>
             <h1 className="poppins-medium">kuroshii251</h1>
-          
-
         </a>
-      <a href="" className="flex items-center gap-3 shadow shadow-black w-75 p-4 rounded-xl">
+      <div className="flex items-center gap-3 shadow shadow-black w-75 p-4 rounded-xl">
 <i className="fa-brands fa-slack text-xl"></i>  
           <h1 className="poppins-medium">Kuro</h1>
-          
-
-        </a>
+        </div>
          <a href="" className="flex items-center gap-3 shadow shadow-black w-75 p-4 rounded-xl">
 <i className="fa-solid fa-at text-xl"></i>
             <h1 className="poppins-medium">diamondg135@gmail.com</h1>
