@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What is 102 + 107",
+        "options": [
+            "207",
+            "209",
+            "202",
+            "205"
+        ],
+        "answer": "209"
+    },
+    {
+        "id": 2,
+        "question": "What is 20% from 80?",
+        "options": [
+            "60",
+            "16",
+            "4",
+            "2"
+        ],
+        "answer": "16"
+    },
+    {
+        "id": 3,
+        "question": "What is 1000/25? ",
+        "options": [
+            "100",
+            "40",
+            "25",
+            "80"
+        ],
+        "answer": "40"
+    },
+    {
+        "id": 4,
+        "question": "What is the result from 2(-3*4)?",
+        "options": [
+            "-12",
+            "24",
+            "12",
+            "-24"
+        ],
+        "answer": "-24"
+    },
+    {
+        "id": 5,
+        "question": "What is the results from 5(4 + (-5)) + 3(2 - 9) ?",
+        "options": [
+            "-26",
+            "-154",
+            "26",
+            "154"
+        ],
+        "answer": "-26"
+    }
+]

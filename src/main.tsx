@@ -38,6 +38,17 @@ import GumballPage from './pages/quizzes/listquizzes/cartoon/gumball/main.tsx'
 import TomandJerryPage from './pages/quizzes/listquizzes/cartoon/main.tsx'
 import SpongebobPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/main.tsx'
 import CartoonPage from './components/listquizzes/cartoon/main.tsx'
+import ChemistryEasyLevelPage from './pages/quizzes/listquizzes/sciences/chemistry/easylevel/main.tsx'
+import ChemistryMediumLevelPage from './pages/quizzes/listquizzes/sciences/chemistry/mediumlevel/main.tsx'
+import ChemistryPage from './pages/quizzes/listquizzes/sciences/chemistry/main.tsx'
+import PhysicsMediumLevelPage from './pages/quizzes/listquizzes/sciences/physics/mediumlevel/main.tsx'
+import PhysicsEasyLevelPage from './pages/quizzes/listquizzes/sciences/physics/easylevel/main.tsx'
+import MathHardLevelPage from './pages/quizzes/listquizzes/sciences/math/hardlevel/main.tsx'
+import MathMediumLevelPage from './pages/quizzes/listquizzes/sciences/math/mediumlevel/main.tsx'
+import MathEasyLevelPage from './pages/quizzes/listquizzes/sciences/math/easylevel/main.tsx'
+import MathPage from './pages/quizzes/listquizzes/sciences/math/main.tsx'
+import PhysicsPage from './pages/quizzes/listquizzes/sciences/physics/main.tsx'
+import Sciences from './pages/quizzes/listquizzes/sciences/main.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -71,17 +82,26 @@ createRoot(document.getElementById('root')!).render(
      <Route path='/quizzes/sports/volleyball/2' element={<VolleyBallMediumLevelPage/>}/>
        <Route path='/quizzes/cartoon/' element={<CartoonPage/>}/>
       <Route path='/quizzes/cartoon/spongebobsquarepants' element={<SpongebobPage/>}/>
-             <Route path='/quizzes/cartoon/spongebobsquarepants/1' element={<SpongebobEasyLevel/>}/>
-          <Route path='/quizzes/cartoon/spongebobsquarepants/2' element={<SpongebobMediumLevel/>}/>
-          <Route path='/quizzes/cartoon/spongebobsquarepants/3' element={<SpongebobHardLevel/>}/>
-           <Route path='/quizzes/cartoon/tomandjerry' element={<TomandJerryPage/>}/>
-            <Route path='/quizzes/cartoon/tomandjerry/1' element={<TomandjerryMediumLevel/>}/>
-          <Route path='/quizzes/cartoon/tomandjerry/2' element={<TomandjerryMediumLevel/>}/>
-           <Route path='/quizzes/cartoon/gumball' element={<GumballPage/>}/>
-                    <Route path='/quizzes/cartoon/gumball/1' element={<GumballEasyLevel/>}/>
-          <Route path='/quizzes/cartoon/gumball/2' element={<GumballMediumLevel/>}/>
-
-
+      <Route path='/quizzes/cartoon/spongebobsquarepants/1' element={<SpongebobEasyLevel/>}/>
+      <Route path='/quizzes/cartoon/spongebobsquarepants/2' element={<SpongebobMediumLevel/>}/>
+      <Route path='/quizzes/cartoon/spongebobsquarepants/3' element={<SpongebobHardLevel/>}/>
+       <Route path='/quizzes/cartoon/tomandjerry' element={<TomandJerryPage/>}/>
+        <Route path='/quizzes/cartoon/tomandjerry/1' element={<TomandjerryMediumLevel/>}/>
+      <Route path='/quizzes/cartoon/tomandjerry/2' element={<TomandjerryMediumLevel/>}/>
+       <Route path='/quizzes/cartoon/gumball' element={<GumballPage/>}/>
+       <Route path='/quizzes/cartoon/gumball/1' element={<GumballEasyLevel/>}/>
+       <Route path='/quizzes/cartoon/gumball/2' element={<GumballMediumLevel/>}/>
+       <Route path='/quizzes/sciences' element={<Sciences/>}/>
+       <Route path='/quizzes/sciences/math' element={<MathPage/>}/>
+       <Route path='/quizzes/sciences/math/1' element={<MathEasyLevelPage/>}/>
+       <Route path='/quizzes/sciences/math/2' element={<MathMediumLevelPage/>}/>
+      <Route path='/quizzes/sciences/math/3' element={<MathHardLevelPage/>}/>
+       <Route path='/quizzes/sciences/physics' element={<PhysicsPage/>}/>
+      <Route path='/quizzes/sciences/physics/1' element={<PhysicsEasyLevelPage/>}/>
+       <Route path='/quizzes/sciences/physics/2' element={<PhysicsMediumLevelPage/>}/>
+      <Route path='/quizzes/sciences/chemistry' element={<ChemistryPage/>}/>
+       <Route path='/quizzes/sciences/chemistry/1' element={<ChemistryEasyLevelPage/>}/>
+       <Route path='/quizzes/sciences/chemistry/2' element={<ChemistryMediumLevelPage/>}/>
     </Routes>
     </BrowserRouter>
   </StrictMode>,

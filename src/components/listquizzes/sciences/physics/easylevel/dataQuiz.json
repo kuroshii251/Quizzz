@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Who invented dynamite?",
+        "options": [
+            "Alfred Nobel",
+            "Henry Cavendish",
+            "Isaac Newton",
+            "Joseph Priestly"
+        ],
+        "answer": "Alfred Nobel"
+    },
+    {
+        "id": 2,
+        "question": "Who is known as the father of quantum theory?",
+        "options": [
+            "Ottot Hahn",
+            "James Chadwick",
+            "Albert Einstein",
+            "Max Planck"
+        ],
+        "answer": "Max Planck"
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a scalar quantity?",
+        "options": [
+            "Energy",
+            "Displacement",
+            "Weight",
+            "Acceleration"
+        ],
+        "answer": "Energy"
+    },
+    {
+        "id": 4,
+        "question": "What will happen to a fresh egg in concentrated saline?",
+        "options": [
+            "it will break",
+            "it will sink slightly and remain at the centre of the water",
+            "it will sink",
+            "it will float"
+        ],
+        "answer": "it will float"
+    },
+    {
+        "id": 5,
+        "question": "Graphite is a crystalline form of which element?",
+        "options": [
+            "Chromium",
+            "Lead",
+            "Copper",
+            "Carbon"
+        ],
+        "answer": "Carbon"
+    }
+]

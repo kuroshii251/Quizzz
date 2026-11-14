@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "A man has a mass of 70 kg on Earth. What will his mass be on the Moon?",
+        "options": [
+            "90 kg",
+            "30 kg",
+            "20 kg",
+            "70 kg"
+        ],
+        "answer": "70 kg"
+    },
+    {
+        "id": 2,
+        "question": "An object weighs 180 N on Earth. What will it weigh on the Moon (approximately)?",
+        "options": [
+            "60 N",
+            "30 N",
+            "40 N",
+            "75 N"
+        ],
+        "answer": "30 N"
+    },
+    {
+        "id": 3,
+        "question": "What is the velocity of sound in vacuum?",
+        "options": [
+            "0 -- there is no sound in vacuum",
+            "320 m/s",
+            "500m/s",
+            "50 m/s"
+        ],
+        "answer": "0 -- there is no sound in vacuum"
+    },
+    {
+        "id": 4,
+        "question": "What is the maximum number of solar eclipses that can be seen from the Earth in one year?",
+        "options": [
+            "5",
+            "7",
+            "8",
+            "10"
+        ],
+        "answer": "5"
+    },
+    {
+        "id": 5,
+        "question": " . What is the period of revolution of Mercury measured in Earth days?",
+        "options": [
+            "49 days",
+            "160 days",
+            "88 days",
+            "365 days"
+        ],
+        "answer": "88 days"
+    }
+]

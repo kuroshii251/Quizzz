@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What is the result from sin 90 + cos 60?",
+        "options": [
+            "1.5",
+            "0.5",
+            "2.5",
+            "3.5"
+        ],
+        "answer": "1.5"
+    },
+    {
+        "id": 2,
+        "question": "If < x < y < z which the following has the greatest value?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 3,
+        "question": "Three squares have sides with lengths a, b, and c. If is 20% greater than a and c is 25% greater than b, then by what percent is the area of the largest square greater than the area of the smallest square?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 4,
+        "question": "if 𝑓(𝑥) = 5𝑥²-3 and 𝑓(𝑥+𝑎) = 5𝑥² + 30𝑥 + 42, what is the value of a?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 5,
+        "question": "The average (arithmetic mean) of the integers from 200 to 400 , inclusive, is how much greather than the average of the integers from 50 to 100 , inclusive",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    }
+]
