@@ -28,6 +28,16 @@ import BasketBall from './components/listquizzes/sports/basket/main.tsx'
 import BadmintonMediumLevelPage from './pages/quizzes/listquizzes/sports/badminton/mediumlevel/main.tsx'
 import BadmintonEasyLevelPage from './pages/quizzes/listquizzes/sports/badminton/easylevel/main.tsx'
 import Badminton from './components/listquizzes/sports/badminton/main.tsx'
+import GumballMediumLevel from './components/listquizzes/cartoon/gumball/mediumlevel/main.tsx'
+import GumballEasyLevel from './components/listquizzes/cartoon/gumball/easylevel/main.tsx'
+import TomandjerryMediumLevel from './components/listquizzes/cartoon/tomandjerry/mediumlevel/main.tsx'
+import SpongebobHardLevel from './components/listquizzes/cartoon/spongebobsquarepants/hardlevel/main.tsx'
+import SpongebobMediumLevel from './components/listquizzes/cartoon/spongebobsquarepants/mediumlevel/main.tsx'
+import SpongebobEasyLevel from './components/listquizzes/cartoon/spongebobsquarepants/easylevel/main.tsx'
+import GumballPage from './pages/quizzes/listquizzes/cartoon/gumball/main.tsx'
+import TomandJerryPage from './pages/quizzes/listquizzes/cartoon/main.tsx'
+import SpongebobPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/main.tsx'
+import CartoonPage from './components/listquizzes/cartoon/main.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -59,6 +69,19 @@ createRoot(document.getElementById('root')!).render(
      <Route path='/quizzes/sports/volleyball' element={<VolleyBall/>}/>
      <Route path='/quizzes/spots/volleyball/1' element={<VolleyBallEasyLevelPage/>}/>
      <Route path='/quizzes/sports/volleyball/2' element={<VolleyBallMediumLevelPage/>}/>
+       <Route path='/quizzes/cartoon/' element={<CartoonPage/>}/>
+      <Route path='/quizzes/cartoon/spongebobsquarepants' element={<SpongebobPage/>}/>
+             <Route path='/quizzes/cartoon/spongebobsquarepants/1' element={<SpongebobEasyLevel/>}/>
+          <Route path='/quizzes/cartoon/spongebobsquarepants/2' element={<SpongebobMediumLevel/>}/>
+          <Route path='/quizzes/cartoon/spongebobsquarepants/3' element={<SpongebobHardLevel/>}/>
+           <Route path='/quizzes/cartoon/tomandjerry' element={<TomandJerryPage/>}/>
+            <Route path='/quizzes/cartoon/tomandjerry/1' element={<TomandjerryMediumLevel/>}/>
+          <Route path='/quizzes/cartoon/tomandjerry/2' element={<TomandjerryMediumLevel/>}/>
+           <Route path='/quizzes/cartoon/gumball' element={<GumballPage/>}/>
+                    <Route path='/quizzes/cartoon/gumball/1' element={<GumballEasyLevel/>}/>
+          <Route path='/quizzes/cartoon/gumball/2' element={<GumballMediumLevel/>}/>
+
+
     </Routes>
     </BrowserRouter>
   </StrictMode>,

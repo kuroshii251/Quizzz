@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": " In the summer of '83, Richard Watterson earned the title of Laziest Person. Who was the former holder of the title?",
+        "options": [
+            "Larry Needlemeyer",
+            "Rocky Robinson",
+            "Nicole Watterson",
+            "There was no former holder"
+        ],
+        "answer": "Larry Needlemeyer"
+    },
+    {
+        "id": 2,
+        "question": "Who is Gumball in love with?",
+        "options": [
+            "Penny",
+            "Masami",
+            "Sarah",
+            "Carrie"
+        ],
+        "answer": "Penny"
+    },
+    {
+        "id": 3,
+        "question": "Who is Darwin Watterson?",
+        "options": [
+            "Gumball's older brother",
+            "Gumball's adoptive brother",
+            "Gumball's younger brother",
+            "Gumball's friend"
+        ],
+        "answer": "Gumball's adoptive brother"
+    },
+    {
+        "id": 4,
+        "question": "Where did Nicole Watterson go to school as a kid?",
+        "options": [
+            "Nicole had no education",
+            "Springfield High",
+            "The same school as her husband",
+            "Nicole was homeschooled"
+        ],
+        "answer": "The same school as her husband"
+    },
+    {
+        "id": 5,
+        "question": "Who is the school counselor?",
+        "options": [
+            "Mr. Robinson",
+            "Miss Simian",
+            "Principal Brown",
+            "Mr. Small"
+        ],
+        "answer": "Mr. Small"
+    }
+]

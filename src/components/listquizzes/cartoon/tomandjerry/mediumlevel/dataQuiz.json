@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Who created Tom and Jerry?",
+        "options": [
+            "Walt Disney",
+            "Warner Bros",
+            "Universal",
+            "Hanna and Barbera"
+        ],
+        "answer": "Hanna and Barbera"
+    },
+    {
+        "id": 2,
+        "question": "What was Tom's full name?",
+        "options": [
+            "Thomas Jasper Cat",
+            "Tommy Cat",
+            "Cat Tom",
+            "Tom Tom Cat"
+        ],
+        "answer": "Thomas Jasper Cat"
+    },
+    {
+        "id": 3,
+        "question": "Who was Tyke related to?",
+        "options": [
+            "Son of Mammy Two Shoes",
+            "Brother of Percy",
+            "Daughter of Toodles",
+            "Son of Spike"
+        ],
+        "answer": "Son of Spike"
+    },
+    {
+        "id": 4,
+        "question": "What was Jerry Mouse famous for doing? ",
+        "options": [
+            "Always fighting the other little guy",
+            "Always hiding from the other little guy",
+            "Always helping the other little guy",
+            "Always helping Tom catch the other little guy"
+        ],
+        "answer": "Always helping Tom catch the other little guy"
+    },
+    {
+        "id": 5,
+        "question": "What was the name of the first Krusty Krab employee other than Spongebob?",
+        "options": [
+            "Larry",
+            "Jim",
+            "Eugene",
+            "Fred"
+        ],
+        "answer": "Jim"
+    }
+]

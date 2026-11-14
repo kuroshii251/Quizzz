@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following quotes came from Patrick Star?",
+        "options": [
+            "'Knowledge is like soup, and I forgot my spoon.'",
+            "'I floss my brain every morning.'",
+            "'Sometimes I think I’m made of socks'",
+            "'If I had a dollar for every idea I had, I’d have four nickels'"
+        ],
+        "answer": "'If I had a dollar for every idea I had, I’d have four nickels'"
+    },
+    {
+        "id": 2,
+        "question": "What instrument does Squidward play?",
+        "options": [
+            "Clarinet",
+            "Flute",
+            "Tuba",
+            "Trumpet"
+        ],
+        "answer": "Clarinet"
+    },
+    {
+        "id": 3,
+        "question": "What's Plankton’s full name?",
+        "options": [
+            "Sheldon J. Plankton",
+            "James L. Planktonious",
+            "Planktonus Maximus",
+            "Plankton B. Microbe"
+        ],
+        "answer": "Sheldon J. Plankton"
+    },
+    {
+        "id": 4,
+        "question": "What item did SpongeBob and Mr. Krabs serve the 'health inspector'? ",
+        "options": [
+            "Chum Bucket Surprise",
+            "The Nasty Patty",
+            "A double stacked Krabby Patty with cheese",
+            "Calamari with Onions"
+        ],
+        "answer": "The Nasty Patty"
+    },
+    {
+        "id": 5,
+        "question": "What was the name of the first Krusty Krab employee other than Spongebob?",
+        "options": [
+            "Larry",
+            "Jim",
+            "Eugene",
+            "Fred"
+        ],
+        "answer": "Jim"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Who is spongebob's best friend? ",
+        "options": [
+            "Squidward",
+            "Patrick Star",
+            "Mr. Krabs",
+            "Plankton"
+        ],
+        "answer": "Patrick Star"
+    },
+    {
+        "id": 2,
+        "question": "Who is spongebob's driver teacher?",
+        "options": [
+            "Mrs. Puff",
+            "Plankton",
+            "Mr. Krabs",
+            "Patrick Star"
+        ],
+        "answer": "Mrs. Puff"
+    },
+    {
+        "id": 3,
+        "question": "Who is SpongeBob's mom?",
+        "options": [
+            "Ma Plankton",
+            "Mrs. Tentacles",
+            "Betsy Krabs",
+            "Margaret SquarePants"
+        ],
+        "answer": "Margaret SquarePants"
+    },
+    {
+        "id": 4,
+        "question": "Where does spongebob work",
+        "options": [
+            "Smoothie Hut",
+            "Krabby Patty",
+            "Chum Bucket",
+            "Kelp Shake Restaurant"
+        ],
+        "answer": "Krabby Patty"
+    },
+    {
+        "id": 5,
+        "question": "What shape's SpongeBob's house?",
+        "options": [
+            "Banana",
+            "Mango",
+            "Pineapple",
+            "Apple"
+        ],
+        "answer": "Pineapple"
+    }
+]

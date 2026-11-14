@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "When Tom and Jerry was released?",
+        "options": [
+            "1993",
+            "1990",
+            "1940",
+            "1941"
+        ],
+        "answer": "1940"
+    },
+    {
+        "id": 2,
+        "question": "Who is the enemy of Tom?",
+        "options": [
+            "Jerry",
+            "Spike",
+            "Tyke",
+            "Butch"
+        ],
+        "answer": "Jerry"
+    },
+    {
+        "id": 3,
+        "question": "What kind of animal is Jerry?",
+        "options": [
+            "dog",
+            "rat",
+            "cat",
+            "mouse"
+        ],
+        "answer": "mouse"
+    },
+    {
+        "id": 4,
+        "question": "What kind of animal is Spike? ",
+        "options": [
+            "elephant",
+            "dog",
+            "mouse",
+            "cat"
+        ],
+        "answer": "dog"
+    },
+    {
+        "id": 5,
+        "question": "Which of these is Tom's cousin?",
+        "options": [
+            "Butch",
+            "Tyke",
+            "George",
+            "Jerry"
+        ],
+        "answer": "George"
+    }
+]

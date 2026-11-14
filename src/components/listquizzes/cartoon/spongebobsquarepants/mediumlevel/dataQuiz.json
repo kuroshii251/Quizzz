@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "When Spongebob SquarePant's released",
+        "options": [
+            "in 1997",
+            "in 1998",
+            "in 1999",
+            "in 2000"
+        ],
+        "answer": "in 1999"
+    },
+    {
+        "id": 2,
+        "question": "How many times has Spongebob failed his boating test?",
+        "options": [
+            "58",
+            "1,258,058",
+            "1,101,100",
+            "730"
+        ],
+        "answer": "1,258,058"
+    },
+    {
+        "id": 3,
+        "question": " How many arms/legs does Squidward have?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 4,
+        "question": "What design does SpongeBob's snail have on his shell?",
+        "options": [
+            "A Square",
+            "A Circle",
+            "A Large Swirl ",
+            "A Triangle"
+        ],
+        "answer": "A Large Swirl "
+    },
+    {
+        "id": 5,
+        "question": " SpongeBob has a pet called Gary. What kind of animal is Gary?",
+        "options": [
+            "Snail",
+            "Cat",
+            "Dog",
+            "Horse"
+        ],
+        "answer": "Snail"
+    }
+]

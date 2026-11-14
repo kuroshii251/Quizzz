@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "In one episode, Masami lies that she has a boyfriend. Who does she tell people her boyfriend is?",
+        "options": [
+            "Darwin Watterson",
+            "Tobias",
+            "Gumball Watterson",
+            "Banana Joe"
+        ],
+        "answer": "Darwin Watterson"
+    },
+    {
+        "id": 2,
+        "question": "The cast certainly has a variety of different species. What species is Gumball Watterson?",
+        "options": [
+            "Cat",
+            "Dog",
+            "Rabbit",
+            "Lion"
+        ],
+        "answer": "Cat"
+    },
+    {
+        "id": 3,
+        "question": " Anais is a special kid. What is her most notable trait?",
+        "options": [
+            "She's pretty",
+            "She's smart",
+            "She's fool",
+            "She's kind"
+        ],
+        "answer": "She's smart"
+    },
+    {
+        "id": 4,
+        "question": "What are the names of the Wattersons' neighbors?",
+        "options": [
+            "Gaylord & Margaret Robinson",
+            "John & Margie Robinson",
+            "George & Margaret Robinson",
+            "Gaylord & Marge Robinson"
+        ],
+        "answer": "Gaylord & Margaret Robinson"
+    },
+    {
+        "id": 5,
+        "question": "Rocky Robinson, son of the Robinsons, works at Elmore Junior High. What is one of his jobs?",
+        "options": [
+            "Teacher",
+            "Gym Teacher",
+            "Principal",
+            "Bus driver"
+        ],
+        "answer": "Bus driver"
+    }
+]
