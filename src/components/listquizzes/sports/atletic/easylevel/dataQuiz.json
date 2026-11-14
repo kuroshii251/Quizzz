@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What does the word 'Athletics' originate from?",
+        "options": [
+            "Latin",
+            "French",
+            "Spanish",
+            "Greek"
+        ],
+        "answer": "Greek"
+    },
+    {
+        "id": 2,
+        "question": "When was the International Association of Athletics Federations (IAAF) founded?",
+        "options": [
+            "1982",
+            "1920",
+            "1912",
+            "1930"
+        ],
+        "answer": "1912"
+    },
+    {
+        "id": 3,
+        "question": "Where is the headquarters of World Athletics located?",
+        "options": [
+            "Monaco",
+            "Switzerland",
+            "Spanish",
+            "Greek"
+        ],
+        "answer": "Monaco"
+    },
+    {
+        "id": 4,
+        "question": "How many track events are part of the decathlon?",
+        "options": [
+            "4",
+            "2",
+            "6",
+            "9"
+        ],
+        "answer": "4"
+    },
+    {
+        "id": 5,
+        "question": "Decathlon is an event of",
+        "options": [
+            "Women",
+            "Both A and B",
+            "Man",
+            "All the options correct"
+        ],
+        "answer": "Man"
+    },
+    {
+        "id": 6,
+        "question": "How many field events are included in the Heptathlon?",
+        "options": [
+            "4",
+            "9",
+            "5",
+            "2"
+        ],
+        "answer": "4"
+    },
+    {
+        "id": 7,
+        "question": "Which of the following event is not played on Day2 of a Heptathlon event?",
+        "options": [
+            "Athios",
+            "Athlos",
+            "Athenos",
+            "Athnia"
+        ],
+        "answer": "Athlos"
+    },
+    {
+        "id": 8,
+        "question": "All are the events of Decathlon Day 1 except",
+        "options": [
+            "Javelin Throw",
+            "Shot Put",
+            "Long Jump",
+            "Short Jump"
+        ],
+        "answer": "Javelin Throw"
+    },
+    {
+        "id": 9,
+        "question": "Where is the headquarter of Asian Athletics Association ",
+        "options": [
+            "Jakarta",
+            "Singapore",
+            "Manilla",
+            "Thailand"
+        ],
+        "answer": "Thailand"
+    },
+    {
+        "id": 10,
+        "question": "International Amateur Athletics Federation Changed to World Athletics  in",
+        "options": [
+            "2012",
+            "2021",
+            "2019",
+            "2026"
+        ],
+        "answer": "2019"
+    }
+]

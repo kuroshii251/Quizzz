@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Which player is known as The Logo of NBA?",
+        "options": [
+            "Michael Jordan",
+            "Jerry West",
+            "Lebron James",
+            "Kobe Bryant"
+        ],
+        "answer": "Jerry West"
+    },
+    {
+        "id": 2,
+        "question": "A team in control of the ball in its front court cannot maintain or regain possession of the ball if it enters the back court, unless a defensive player has touched it. It is called",
+        "options": [
+            "Pull and Push",
+            "Right and Left",
+            "Back and Front",
+            "Over and Back"
+        ],
+        "answer": "Over and Back"
+    },
+    {
+        "id": 3,
+        "question": "A player may intentionally kick the ball for the teams benefit",
+        "options": [
+            "true",
+            "false",
+            "maybe",
+            "none of the above"
+        ],
+        "answer": "false"
+    },
+    {
+        "id": 4,
+        "question": "Which shot has the highest percentage of going in the BasketBall?",
+        "options": [
+            "Hook Shot",
+            "Lay-up",
+            "Free Throw",
+            "Jump Shot"
+        ],
+        "answer": "Lay-up"
+    },
+    {
+        "id": 5,
+        "question": "Who is the greatest half courte shooter in NBA history with the minimum shot distance of 47 feet long from the BasketBall ring?",
+        "options": [
+            "Stephen Curry",
+            "Michael Jordan",
+            "Lebron James",
+            "Jerry West"
+        ],
+        "answer": "Stephen Curry"
+    }
+]

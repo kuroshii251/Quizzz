@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "The word 'Badminton' was originally the name of",
+        "options": [
+            "An French General",
+            "An Japan City",
+            "A Type of Feather",
+            "An English House"
+        ],
+        "answer": "An English House"
+    },
+    {
+        "id": 2,
+        "question": "The badminton birdie is also known by another name which is what?",
+        "options": [
+            "Net",
+            "Posts",
+            "Shuttlecock",
+            "Racket"
+        ],
+        "answer": "Shuttlecock"
+    },
+    {
+        "id": 3,
+        "question": "Each game is played up to how many points?",
+        "options": [
+            "20",
+            "21",
+            "22",
+            "23"
+        ],
+        "answer": "21"
+    },
+    {
+        "id": 4,
+        "question": "The Badminton World Championship was started in the year",
+        "options": [
+            "1975",
+            "1976",
+            "1977",
+            "1978"
+        ],
+        "answer": "1977"
+    },
+    {
+        "id": 5,
+        "question": "Sudirman Cup” is associated with which game?",
+        "options": [
+            "VolleyBall",
+            "BasketBall",
+            "Football",
+            "Badminton"
+        ],
+        "answer": "Badminton"
+    }
+]

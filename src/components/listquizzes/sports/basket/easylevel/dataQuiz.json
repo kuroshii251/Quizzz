@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What year basketball invented",
+        "options": [
+            "1893",
+            "1890",
+            "1891",
+            "1892"
+        ],
+        "answer": "1891"
+    },
+    {
+        "id": 2,
+        "question": "Where was basketball invented?",
+        "options": [
+            "Washington DC",
+            "Springfield, Massachusetts",
+            "Brooklyn, New York",
+            "Boston"
+        ],
+        "answer": "Springfield, Massachusetts"
+    },
+    {
+        "id": 3,
+        "question": "How many points is a free throw worth",
+        "options": [
+            "2 point",
+            "3 point",
+            "1 point",
+            "4 point"
+        ],
+        "answer": "1 point"
+    },
+    {
+        "id": 4,
+        "question": "Who invented BasketBall?",
+        "options": [
+            "Walter Camp",
+            "Abner Doubleday",
+            "William G. Morgan",
+            "James Naismith"
+        ],
+        "answer": "James Naismith"
+    },
+    {
+        "id": 5,
+        "question": "What does NBA stand for?",
+        "options": [
+            "National BasketBall Asscociation",
+            "National BasketBall Academy",
+            "National BasketBall Arena",
+            "National BasketBall Athletic"
+        ],
+        "answer": "National BasketBall Asscociation"
+    }
+]

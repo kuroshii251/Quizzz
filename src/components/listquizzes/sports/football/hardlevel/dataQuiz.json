@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "question": "What is hattrick?",
+        "options": [
+            "Scoring 2 Goals in 1 match",
+            "Scoring 3 Goals in 1 match",
+            "Scoring 5 Goals in 1 match",
+            "Scoring 6 Goals in 1 match"
+        ],
+        "answer": "Scoring 3 Goals in 1 match"
+    },
+    {
+        "id": 2,
+        "question": "Where the country's fifa organized first world cup?",
+        "options": [
+            "Brazil",
+            "Italy",
+            "Uruguay",
+            "Spain"
+        ],
+        "answer": "Uruguay"
+    },
+    {
+        "id": 3,
+        "question": "Who has scored the most goals in international football history?",
+        "options": [
+            "Christiano Ronaldo",
+            "Pelé",
+            "Messi",
+            "Luka Modric"
+        ],
+        "answer": "Christiano Ronaldo"
+    },
+    {
+        "id": 4,
+        "question": " Who is the all-time FIFA World Cup top goalscorer?",
+        "options": [
+            "Christiano Ronaldo",
+            "Miroslav Klose",
+            "Kylian Mbappe",
+            "Harry Kane"
+        ],
+        "answer": "Kylian Mbappe"
+    }
+]

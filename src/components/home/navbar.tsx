@@ -18,7 +18,6 @@ export default function Navbar(){
 <i className="fa-solid fa-caret-down"></i>
                             </button>
                         </div>
-                     <a href="/history" className="font-semibold text-gray-900 hover:">History</a>
                 <a href="/blog" className="font-semibold text-gray-900 hover:">Blog</a>
                 </div>
                 <div className="flex items-end justify-end">

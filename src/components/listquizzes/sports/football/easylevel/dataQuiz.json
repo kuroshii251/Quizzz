@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What is the duration of a standard football match?",
+        "options": [
+            "180 minutes",
+            "90 minutes",
+            "120 minutes",
+            "45 minutes"
+        ],
+        "answer": "90 Minutes"
+    },
+    {
+        "id": 2,
+        "question": "How many player are there on a football team?",
+        "options": [
+            "11",
+            "10",
+            "12",
+            "9"
+        ],
+        "answer": "11"
+    },
+    {
+        "id": 3,
+        "question": "Who is the GOAT in a football?",
+        "options": [
+            "Lionel Messi",
+            "Neymar JR",
+            "Christiano Ronaldo",
+            "Lamine Yamal"
+        ],
+        "answer": "Lionel Messi"
+    },
+    {
+        "id": 4,
+        "question": "The first year of FIFA world cup in",
+        "options": [
+            "1920",
+            "1930",
+            "1940",
+            "1950"
+        ],
+        "answer": "1930"
+    },
+    {
+        "id": 5,
+        "question": "What does VAR in Football?",
+        "options": [
+            "Visual Action Replay",
+            "Virtual Assistance Referee",
+            "Video Analytics Review",
+            "Video Assistance Referee"
+        ],
+        "answer": "Video Assistance Referee"
+    }
+]

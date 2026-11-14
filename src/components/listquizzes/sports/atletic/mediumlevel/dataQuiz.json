@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Who is the current President of World Athletics (IAAF)?",
+        "options": [
+            "Sergey Bubka",
+            "Primo Nebiolo",
+            "Sebastian Coe",
+            "Daley Thompson"
+        ],
+        "answer": "Sebastian Coe"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following event is not played on Day2 of a Heptathlon event?",
+        "options": [
+            "Shot Put",
+            "Javelin Throw",
+            "800m race",
+            "Long Jump"
+        ],
+        "answer": "1912"
+    },
+    {
+        "id": 3,
+        "question": "Who's known as the fastest man in the world?",
+        "options": [
+            "Usain Bolt",
+            "Carl Lewis",
+            "Tyson Gay",
+            "Justin Gatlin"
+        ],
+        "answer": "Usain Bolt"
+    },
+    {
+        "id": 4,
+        "question": "What is the length of an Olympic Track?",
+        "options": [
+            "100 meters",
+            "200 meters",
+            "300 meters",
+            "400 meters"
+        ],
+        "answer": "400 meters"
+    },
+    {
+        "id": 5,
+        "question": "What color flag do field judges raise to signal that an athletic trial is valid/good?",
+        "options": [
+            "Red Flag",
+            "Green Flag",
+            "White Flag",
+            "Blue Flag"
+        ],
+        "answer": "White Flag"
+    }
+]

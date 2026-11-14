@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": " What are the service lines in a singles court?",
+        "options": [
+            "Short and Wide",
+            "Long and Wide",
+            "Wide and Narrow",
+            "Long and Narrow"
+        ],
+        "answer": "Long and Narrow "
+    },
+    {
+        "id": 2,
+        "question": " The interval between games of a match in badminton cannot exceed how many minutes?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "2"
+    },
+    {
+        "id": 3,
+        "question": "How many feathers should be in a shuttle?",
+        "options": [
+            "16",
+            "14",
+            "15",
+            "17"
+        ],
+        "answer": "16"
+    },
+    {
+        "id": 4,
+        "question": "The diameter of the base of a shuttlecock should be",
+        "options": [
+            "10 mm - 13 mm",
+            "19 - 22 mm",
+            "25 mm - 28 mm",
+            "31 mm - 34 mm"
+        ],
+        "answer": "25 mm – 28 mm"
+    },
+    {
+        "id": 5,
+        "question": "What is the least amount of points a player must lead by to win the match?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "2"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "In what year was the National Football League founded?",
+        "options": [
+            "1910",
+            "1920",
+            "1930",
+            "1940"
+        ],
+        "answer": "1920"
+    },
+    {
+        "id": 2,
+        "question": "What is the offensive player who throws passes called?",
+        "options": [
+            "The running back",
+            "The quarterback",
+            "The linebacker",
+            "The wide receiver"
+        ],
+        "answer": "The quarterback"
+    },
+    {
+        "id": 3,
+        "question": "How many points is a safety worth?",
+        "options": [
+            "2",
+            "1",
+            "4",
+            "3"
+        ],
+        "answer": "2"
+    },
+    {
+        "id": 4,
+        "question": "What is it called when a defender catches a pass meant for the offense?",
+        "options": [
+            "An incomplete pass",
+            "A sack",
+            "A fumble",
+            "An interception"
+        ],
+        "answer": "An interception"
+    },
+    {
+        "id": 5,
+        "question": "How many points is a field goal worth?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3"
+    }
+]

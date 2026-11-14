@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Which country won the first Olympic gold medal in basketball?",
+        "options": [
+            "Brazil",
+            "Spain",
+            "United States",
+            "United Kingdom"
+        ],
+        "answer": "United States"
+    },
+    {
+        "id": 2,
+        "question": "How many steps can a player take without dribbling the ball?",
+        "options": [
+            "1 step",
+            "2 steps",
+            "3 steps",
+            "4 steps"
+        ],
+        "answer": "2 steps"
+    },
+    {
+        "id": 3,
+        "question": "How many seconds does a team have to shoot the ball while in possession?",
+        "options": [
+            "12 seconds",
+            "25 seconds",
+            "24 seconds",
+            "22 seconds"
+        ],
+        "answer": "24 seconds"
+    },
+    {
+        "id": 4,
+        "question": "What is the backplate of the hoop called?",
+        "options": [
+            "Backboard",
+            "Rim plate",
+            "Backstop",
+            "Shot shield"
+        ],
+        "answer": "Backboard"
+    },
+    {
+        "id": 5,
+        "question": "What was the first basketball made of?",
+        "options": [
+            "A volleyball",
+            "A football",
+            "A tennis ball",
+            "A basketball"
+        ],
+        "answer": "A football"
+    }
+]

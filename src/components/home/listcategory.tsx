@@ -9,8 +9,8 @@ export default function ListCategory (){
     return (
         <>
         <div className="flex flex-col items-center justify-center min-h-screen">
-            <h1 className="font-bold text-5xl scroll-effectss ">Category</h1>
-            <div className="grid grid-cols-3 space-x-5 space-y-5 place-items-center py-20 ">
+            {/* <h1 className="font-bold text-5xl scroll-effectss "></h1> */}
+            <div className="grid grid-cols-3 space-x-5 space-y-5 place-items-center py-10 ">
               <a href="/quiz/sports" className="border-1 object-cover h-100 border-gray-400 w-80 scroll-effectss  rounded-xl">
                 <img className="object-cover rounded-t-xl overflow-hidden w-full h-50" src={sportbackground} alt="" />
                 <div className="mt-2 p-5">
@@ -55,7 +55,6 @@ export default function ListCategory (){
               </a>
             </div>
         </div>
-        
         </>
     )
 }
