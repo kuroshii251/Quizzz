@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What year did the French Revolution start?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 2,
+        "question": "How long did the Han Dynasty rule China?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 3,
+        "question": "During World War II, Allied troops stormed the beaches of Normandy. Which country is this in?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 4,
+        "question": "Who gave financial backing to Christopher Columbus to explore the New World?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 5,
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    }
+]

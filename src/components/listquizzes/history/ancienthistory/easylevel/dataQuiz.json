@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "The Great Pyramid of Giza was built as a tomb for which pharaoh?",
+        "options": [
+            "Tutankhamun",
+            "Menkaure",
+            "Khufu",
+            "Khafre"
+        ],
+        "answer": "Khufu"
+    },
+    {
+        "id": 2,
+        "question": "Who was the first emperor of Rome?",
+        "options": [
+            "Nero",
+            "Julius Caesar",
+            "Marcus Aurelius",
+            "Augustus"
+        ],
+        "answer": "Augustus"
+    },
+    {
+        "id": 3,
+        "question": "Modern-day Istanbul, Turkey, used to be called what when it was the capital of the Byzantine Empire?",
+        "options": [
+            "Alexandria",
+            "Constantinople",
+            "Ephesus",
+            "Antioch"
+        ],
+        "answer": "Constantinople"
+    },
+    {
+        "id": 4,
+        "question": "Which two city-states fought in the Peloponnesian War?",
+        "options": [
+            "Athens and Sparta",
+            "Corinth and Argos",
+            "Troy and Mycenae",
+            "Rome and Carthage"
+        ],
+        "answer": "Athens and Sparta"
+    },
+    {
+        "id": 5,
+        "question": "Which Greek goddess was the Parthenon dedicated to?",
+        "options": [
+            "Artemis",
+            "Aphrodite",
+            "Hera",
+            "Athena"
+        ],
+        "answer": "Athena"
+    }
+]

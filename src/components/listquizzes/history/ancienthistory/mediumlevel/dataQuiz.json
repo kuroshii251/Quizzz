@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Which famous battle is widely considered a turning point in the wars between Persia and Greece?",
+        "options": [
+            "The Battle of Cannae in 216 B.C",
+            "The Battle of Zama in 202 B.C",
+            "The Battle of Actium in 31 B.C",
+            "The Battle of Marathon in 490 B.C"
+        ],
+        "answer": "The Battle of Marathon in 490 B.C"
+    },
+    {
+        "id": 2,
+        "question": "Which ancient figure is often considered the founder of Western philosophy?",
+        "options": [
+            "Socrates",
+            "Plato",
+            "Pythagoras",
+            "Aristotle"
+        ],
+        "answer": "Socrates"
+    },
+    {
+        "id": 3,
+        "question": "How old was King Tutankhamun when he died?",
+        "options": [
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "answer": "19"
+    },
+    {
+        "id": 4,
+        "question": "How many rules are written in the Code of Hammurabi?",
+        "options": [
+            "282",
+            "100",
+            "280",
+            "290"
+        ],
+        "answer": "282"
+    },
+    {
+        "id": 5,
+        "question": "What dynasty was Cleopatra part of?",
+        "options": [
+            "The Julio-Claudian dynasty",
+            "The Antigonid dynasty",
+            "The Ptolemaic dynasty",
+            "The Seleucid dynasty"
+        ],
+        "answer": "The Ptolemaic dynasty"
+    }
+]

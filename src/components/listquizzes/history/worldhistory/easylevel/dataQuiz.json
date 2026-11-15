@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What is considered the largest empire in history?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 2,
+        "question": "What is the longest wall in the world?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "id": 3,
+        "question": "What year did Indonesia gain independence?",
+        "options": [
+            "1943",
+            "1944",
+            "1945",
+            "1946"
+        ],
+        "answer": "1945"
+    },
+    {
+        "id": 4,
+        "question": "Who was the first person in the world to land on the moon, and which country were they from?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "id": 5,
+        "question": " What was the name of the international group formed to maintain world peace after World War I?",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    }
+]

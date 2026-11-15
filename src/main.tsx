@@ -55,6 +55,14 @@ import ReptilesMediumLevelPage from './pages/quizzes/listquizzes/animals/reptile
 import MammalMediumLevelPage from './pages/quizzes/listquizzes/animals/mammal/mediumlevel/main.tsx'
 import MammalEasyLevelPage from './pages/quizzes/listquizzes/animals/mammal/easylevel/main.tsx'
 import MammalPage from './pages/quizzes/listquizzes/animals/mammal/main.tsx'
+import HistoryPage from './pages/quizzes/listquizzes/history/main.tsx'
+import AncientHistoryEasyLevel from './components/listquizzes/history/ancienthistory/easylevel/main.tsx'
+import WorldHistoryPage from './pages/quizzes/listquizzes/history/worldhistory/main.tsx'
+import AncientHistoryMediumLevel from './components/listquizzes/history/ancienthistory/mediumlevel/main.tsx'
+import AncientHistoryMediumLevelPage from './pages/quizzes/listquizzes/history/ancienthistory/mediumlevel/main.tsx'
+import AncientHistoryEasyLevelPage from './pages/quizzes/listquizzes/history/ancienthistory/easylevel/main.tsx'
+import AncientHistoryPage from './pages/quizzes/listquizzes/history/ancienthistory/main.tsx'
+import WorldHistoryMediumLevelPage from './pages/quizzes/listquizzes/history/worldhistory/mediumlevel/main.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -109,12 +117,23 @@ createRoot(document.getElementById('root')!).render(
        <Route path='/quizzes/sciences/chemistry/1' element={<ChemistryEasyLevelPage/>}/>
        <Route path='/quizzes/sciences/chemistry/2' element={<ChemistryMediumLevelPage/>}/>
 
-              <Route path='/quizzes/animals/reptiles' element={<ReptilesPage/>}/>
-               <Route path='/quizzes/animals/reptiles/1' element={<ReptilesEasyLevelPage/>}/>
-              <Route path='/quizzes/animals/reptiles/2' element={<ReptilesMediumLevelPage/>}/>
-              <Route path='/quizzes/animals/mammal' element={<MammalPage/>}/>
-              <Route path='/quizzes/animals/mammal/1' element={<MammalEasyLevelPage/>}/>
-              <Route path='/quizzes/animals/mammal/2' element={<MammalMediumLevelPage/>}/>
+                <Route path='/quizzes/animals/reptiles' element={<ReptilesPage/>}/>
+                <Route path='/quizzes/animals/reptiles/1' element={<ReptilesEasyLevelPage/>}/>
+                <Route path='/quizzes/animals/reptiles/2' element={<ReptilesMediumLevelPage/>}/>
+                <Route path='/quizzes/animals/mammal' element={<MammalPage/>}/>
+                <Route path='/quizzes/animals/mammal/1' element={<MammalEasyLevelPage/>}/>
+                <Route path='/quizzes/animals/mammal/2' element={<MammalMediumLevelPage/>}/>
+
+                <Route path='/quizzes/history/' element={<HistoryPage/>}/>
+                <Route path='/quizzes/history/worldhistory' element={<WorldHistoryPage/>}/>
+                <Route path='/quizzes/history/worldhistory/1' element={<AncientHistoryEasyLevelPage/>}/>
+                <Route path='/quizzes/history/worldhistory/2' element={<WorldHistoryMediumLevelPage/>}/>
+                <Route path='/quizzes/history/ancienthistory' element={<AncientHistoryPage/>}/>
+                <Route path='/quizzes/history/ancienthistory/1' element={<AncientHistoryEasyLevelPage/>}/>
+                <Route path='/quizzes/history/ancienthistory/2' element={<AncientHistoryMediumLevelPage/>}/>
+
+
+
 
 
 

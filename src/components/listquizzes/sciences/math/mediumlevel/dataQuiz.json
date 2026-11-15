@@ -45,12 +45,12 @@
     },
     {
         "id": 5,
-        "question": "",
+        "question": "The least common multiple of two prime numbers, x and y is 14 where x > y. The value of 3x - y is",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "13",
+            "-1",
+            "19",
+            "21"
         ],
         "answer": ""
     }
