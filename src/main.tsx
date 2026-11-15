@@ -49,6 +49,12 @@ import MathEasyLevelPage from './pages/quizzes/listquizzes/sciences/math/easylev
 import MathPage from './pages/quizzes/listquizzes/sciences/math/main.tsx'
 import PhysicsPage from './pages/quizzes/listquizzes/sciences/physics/main.tsx'
 import Sciences from './pages/quizzes/listquizzes/sciences/main.tsx'
+import ReptilesPage from './pages/quizzes/listquizzes/animals/reptiles/main.tsx'
+import ReptilesEasyLevelPage from './pages/quizzes/listquizzes/animals/reptiles/easylevel/main.tsx'
+import ReptilesMediumLevelPage from './pages/quizzes/listquizzes/animals/reptiles/mediumlevel/main.tsx'
+import MammalMediumLevelPage from './pages/quizzes/listquizzes/animals/mammal/mediumlevel/main.tsx'
+import MammalEasyLevelPage from './pages/quizzes/listquizzes/animals/mammal/easylevel/main.tsx'
+import MammalPage from './pages/quizzes/listquizzes/animals/mammal/main.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -102,6 +108,17 @@ createRoot(document.getElementById('root')!).render(
       <Route path='/quizzes/sciences/chemistry' element={<ChemistryPage/>}/>
        <Route path='/quizzes/sciences/chemistry/1' element={<ChemistryEasyLevelPage/>}/>
        <Route path='/quizzes/sciences/chemistry/2' element={<ChemistryMediumLevelPage/>}/>
+
+              <Route path='/quizzes/animals/reptiles' element={<ReptilesPage/>}/>
+               <Route path='/quizzes/animals/reptiles/1' element={<ReptilesEasyLevelPage/>}/>
+              <Route path='/quizzes/animals/reptiles/2' element={<ReptilesMediumLevelPage/>}/>
+              <Route path='/quizzes/animals/mammal' element={<MammalPage/>}/>
+              <Route path='/quizzes/animals/mammal/1' element={<MammalEasyLevelPage/>}/>
+              <Route path='/quizzes/animals/mammal/2' element={<MammalMediumLevelPage/>}/>
+
+
+
+
     </Routes>
     </BrowserRouter>
   </StrictMode>,

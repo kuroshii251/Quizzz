@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Which feature is visible different in crocodiles and alligators?",
+        "options": [
+            "Scales",
+            "Feet",
+            "Tails",
+            "Snouts"
+        ],
+        "answer": "Snouts"
+    },
+    {
+        "id": 2,
+        "question": "Most reptiles are",
+        "options": [
+            "ureotelic over land",
+            "ammonotelic",
+            "uricotelic",
+            "ureotelic"
+        ],
+        "answer": "uricotelic"
+    },
+    {
+        "id": 3,
+        "question": "Bones of the reptiles are covered by",
+        "options": [
+            "Calcium",
+            "Keratin",
+            "Chitin",
+            "none of the above"
+        ],
+        "answer": "Keratin"
+    },
+    {
+        "id": 4,
+        "question": "The respiratory organ in reptiles is",
+        "options": [
+            "lungs",
+            "epidermis",
+            "skins",
+            "gills"
+        ],
+        "answer": "lungs"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is a kind of medium-sized omnivorous pet lizard from South America?",
+        "options": [
+            "Gecko",
+            "Tuatara",
+            "Tegu",
+            "Iguana"
+        ],
+        "answer": "Tegu"
+    }
+]

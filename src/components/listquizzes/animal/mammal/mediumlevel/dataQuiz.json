@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What animal will use spitting as a warning to other members of the same species?",
+        "options": [
+            "Donkeys",
+            "Goats",
+            "Llamas",
+            "Horses"
+        ],
+        "answer": "Llamas"
+    },
+    {
+        "id": 2,
+        "question": "What animal in baby form is known as a puggle?",
+        "options": [
+            "Wombats",
+            "Pangolins",
+            "Hedgehogs",
+            "Echidnas"
+        ],
+        "answer": "Echidnas"
+    },
+    {
+        "id": 3,
+        "question": "Which animal has stripe patterns that are all unique, just like a human fingerprint?",
+        "options": [
+            "Leopards",
+            "Zebras",
+            "Cheetahs",
+            "Giraffes"
+        ],
+        "answer": "Zebras"
+    },
+    {
+        "id": 4,
+        "question": "What is the largest mammal in North America?",
+        "options": [
+            "Buffalo",
+            "Elephant",
+            "Gorilla",
+            "Bison"
+        ],
+        "answer": "Bison"
+    },
+    {
+        "id": 5,
+        "question": " What bear is the smallest species of bear in the world?",
+        "options": [
+            "Spectacled Bears",
+            "Sloth Bears",
+            "White Bears",
+            "Sun Bears"
+        ],
+        "answer": "Sun Bears"
+    }
+]

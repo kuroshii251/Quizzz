@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "What is the biggest species of primate?",
+        "options": [
+            "Simpanse",
+            "Gorilla",
+            "Tiger",
+            "Monkey"
+        ],
+        "answer": "Gorilla"
+    },
+    {
+        "id": 2,
+        "question": "What is the only mammal that can fly?",
+        "options": [
+            "Elephant",
+            "Monkey",
+            "Cow",
+            "Bat"
+        ],
+        "answer": "Bat"
+    },
+    {
+        "id": 3,
+        "question": "What are the only cats that live together in groups? ",
+        "options": [
+            "Cat",
+            "Tiger",
+            "Cheetah",
+            "Lions"
+        ],
+        "answer": "Lions"
+    },
+    {
+        "id": 4,
+        "question": "What animal is famous for carrying its young in a pouch?",
+        "options": [
+            "Monkey",
+            "Kangaroo",
+            "Elephant",
+            "Tiger"
+        ],
+        "answer": "Kangaroo"
+    },
+    {
+        "id": 5,
+        "question": "What is the largest rodent in the world?",
+        "options": [
+            "Capybara",
+            "Mouse",
+            "Hamster",
+            "Rat"
+        ],
+        "answer": "Capybara"
+    }
+]

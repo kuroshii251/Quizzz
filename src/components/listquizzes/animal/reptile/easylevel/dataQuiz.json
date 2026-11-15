@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "question": "Which of these reptiles can change the colour of its skin?",
+        "options": [
+            "Green tree python",
+            "Komodo",
+            "Chameleon",
+            "Gharial"
+        ],
+        "answer": "Chameleon"
+    },
+    {
+        "id": 2,
+        "question": "The largest reptiles include which of the following?",
+        "options": [
+            "The python, the sea turtle, and the American alligator",
+            "The Chinese alligator, the gecko, and the wildebeast",
+            "The Nile crocodile, the worm-lizard, and the elephant",
+            "The leatherback turtle, the Komodo dragon, and the saltwater crocodile"
+        ],
+        "answer": "The leatherback turtle, the Komodo dragon, and the saltwater crocodile"
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a beaked reptile?",
+        "options": [
+            "Coral snake",
+            "Iguana",
+            "Anaconda",
+            "Tuatara"
+        ],
+        "answer": "Tuatara"
+    },
+    {
+        "id": 4,
+        "question": "Is a reptile cold-blooded or warm blooded?",
+        "options": [
+            "Both",
+            "Warmblooded",
+            "Neither",
+            "Cold-blooded"
+        ],
+        "answer": "Cold-blooded"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following are characteristics of reptiles?",
+        "options": [
+            "A backbone, hard-shelled eggs, scales",
+            "Four limbs, jelly eggs, scutes",
+            "A notochord, soft-shelled eggs, carapace",
+            "Lidless eyes, warm-blooded, retractable heads"
+        ],
+        "answer": "A backbone, hard-shelled eggs, scales"
+    }
+]
