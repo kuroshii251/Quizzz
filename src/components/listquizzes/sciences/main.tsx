@@ -7,11 +7,11 @@ import chemistrybackground from "../../../assets/chemistrybackground.jpg"
 export default function Sciencess(){
     return (
         <>
-        <div className="flex flex-col justify-center items-center h-200">
+        <div className="flex flex-col justify-center items-center min-h-screen mb-10">
             <h1 className="text-center text-5xl font-bold">Sciences</h1>
         <h1 className="text-center text-xl font-semibold mt-3 pb-10">Select The Sciences</h1>
 
-            <div className="grid grid-cols-3 gap-5 space-y-3">
+            <div className="grid lg:grid-cols-3 lg:gap-5 gap-0 place-items-center justify-center lg:space-y-0 space-y-5 items-center h-80">
 
              <a href="/quizzes/sciences/math" className="border-1 object-cover h-auto border-gray-400 w-80 scroll-effectss  rounded-xl">
                 <img className="object-cover rounded-t-xl overflow-hidden w-full h-50" src={mathbackground} alt="" />

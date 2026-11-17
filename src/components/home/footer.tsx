@@ -4,19 +4,19 @@ export default function Footer(){
     return (
         <>
         <div className="p-5 bg-black">
-            <div className="grid grid-cols-3 p-5">
+            <div className="grid lg:grid-cols-3 grid-cols-1 p-5">
                 <div className="">
                     <img src={logo} className="w-20" alt=""/>
                     <p className="text-white text-md font-semibold ">Quizz is an online quiz platform where you can tes your knowledge through various categories and difficulty levels</p>
                 </div>
-                <div className="flex flex-col mx-auto space-y-5 justify-center">
+                <div className="flex flex-col lg:mx-auto space-y-5 lg:justify-center lg:mt-0 mt-7">
                     <h1 className="font-semibold text-white">Menu</h1>
                     <a href="/" className="text-white hover:text-gray-500 font-semibold">Home</a>
                     <a href="/quizzes" className="text-white hover:text-gray-500 font-semibold">Quiz</a>
                     <a href="/blog" className="text-white hover:text-gray-500 font-semibold">Blog</a>
                     <a href="/contact" className="text-white hover:text-gray-500 font-semibold">Contact</a>
                 </div>
-                <div className="flex flex-col items-center">
+                <div className="flex flex-col lg:items-center lg:mt-0 mt-10">
                     <h1 className="text-white font-semibold mb-3">Categories</h1>
                     <div className="flex flex-col space-y-3  ">
                     <a href="/quizzes/sports" className="text-white hover:text-gray-500">Sports</a>
@@ -28,7 +28,7 @@ export default function Footer(){
                 </div>
             </div>
             <div className="">
-                <h1 className="text-white font-semibold px-5">Copyright 2026 by Kuro</h1>
+                <h1 className="text-white font-semibold px-5 lg:mt-0 mt-10">Copyright 2026 by Kuro</h1>
             </div>
         </div>
         </>

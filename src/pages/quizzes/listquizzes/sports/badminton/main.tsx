@@ -5,11 +5,8 @@ import Badminton from "../../../../../components/listquizzes/sports/badminton/ma
 export default function BadmintonPage(){
     return (
         <>
-
         <Navbar/>
-
         <Badminton/>
-
         <Footer/>
         
         </>

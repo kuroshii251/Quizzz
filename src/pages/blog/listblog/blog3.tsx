@@ -7,12 +7,13 @@ export default function Blog3(){
         <>
         
         <Navbar/>
-    <div className="flex flex-col justify-center items-center h-400">
+        <div className="flex flex-col items-center justify-center lg:h-400 h-500">
         <div className="col space-y-5">
 
-            <h1 className="text-3xl font-bold text-center">5 Ways To Quickly Understand Lessons</h1>
-            <img src={picture4} className="mx-auto rounded-xl object-cover w-200 h-100 " alt="" />
-            <div className="w-250 mt-5 space-y-2">
+            <h1 className="text-3xl font-bold lg:w-auto w-120  text-center">5 Ways To Quickly Understand Lessons</h1>
+            <img src={picture4} className="mx-auto rounded-lg object-cover lg:w-200 w-100 lg:h-100 h-50 " alt="" />
+                              <div className="lg:w-250 w-100 mx-auto mt-5 space-y-2">
+
                 <p className="font-semibold text-lg">As the exam approached,  your learning frecuency's certain further increased than usual. In this phase, it's very vulnerable makes buzy during learning</p>
                 <br />
                 <p className="text-lg font-semibold">For you that still get a hard when learning, this is several tricks which you can try</p>
@@ -31,10 +32,10 @@ export default function Blog3(){
                 <br />
                  <h1 className="text-lg font-bold">5. Make the mind map</h1>
                 <p className="text-lg font-semibold">Mind mapping is a process of mapping out thoughts to connect concepts related to a specific issue. The resulting output serves as a direct representation of how connections function within the brain. This method can also help develop creative thinking.</p>
+               <p className="text-md pt-10" >Source: <a href="https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran">https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran</a></p>
+
             </div>
-                     <p className="text-md">Source: <a href="https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran">https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran</a>
-                        </p>
-                        </div>
+            </div>
         </div>
 
         <Footer/>

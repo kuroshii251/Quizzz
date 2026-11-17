@@ -9,10 +9,10 @@ export default function BlogPage(){
     return (
         <>
         <Navbar/>
-        <div className="flex flex-col items-center justify-flex h-300">
+        <div className="flex flex-col items-center justify-flex lg:h-300 h-600">
             <h1 className="text-5xl mt-10 mb-5 font-bold text-center">Blog</h1>
             <p className="text-center w-150 mb-10">Article about the knowledge</p>
-            <div className="grid grid-cols-3 space-y-10 gap-5 justify-center place-items-center mx-auto items-center">
+            <div className="grid lg:grid-cols-3 space-y-10 gap-5 justify-center place-items-center mx-auto items-center">
                 <a href="/blog/1" className="w-100 space-y-5 object-fit h-100">
                     <img src={picture1} className="object-cover w-100 rounded-xl h-50 overflow-hidden" alt="" />
                     <h1 className="text-xl font-bold">5 Tips to increase your focus</h1>

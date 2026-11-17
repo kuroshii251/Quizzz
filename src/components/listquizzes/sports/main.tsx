@@ -8,11 +8,11 @@ import volleyballbackground from "../../../assets/volleyballbackground.jpg"
 export default function Sportss(){
     return (
         <>
-        <div className="flex flex-col justify-center items-center h-200">
+        <div className="flex flex-col justify-center items-center lg:h-200 min-h-screen">
             <h1 className="text-center text-5xl font-bold">Sports</h1>
         <h1 className="text-center text-xl font-semibold mt-3 pb-10">Select The Sports</h1>
 
-            <div className="grid grid-cols-3 gap-5 space-y-3">
+            <div className="grid lg:grid-cols-3 gap-5 space-y-3">
 
              <a href="/quizzes/sports/football" className="border-1 object-cover h-auto border-gray-400 w-80 scroll-effectss  rounded-xl">
                 <img className="object-cover rounded-t-xl overflow-hidden w-full h-50" src={footballbackground} alt="" />

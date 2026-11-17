@@ -3,7 +3,7 @@
 export default function Tomandjerry(){
     return (
         <>
-        <div className="flex flex-col justify-center items-center min-h-screen">
+        <div className="flex flex-col justify-center items-center min-h-screen mb-10">
             <h1 className="text-5xl text-center font-bold">Difficulty</h1>
             <p className="text-center text-xl font-semibold">Select Difficulty</p>
             <div className="grid grid-cols-2 space-x-10 place-items-center justify-center items-center h-80">

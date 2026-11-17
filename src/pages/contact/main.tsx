@@ -6,10 +6,10 @@ export default function Contact(){
         <>
         <Navbar/>
         <div className="flex items-center justify-center min-h-screen">
-            <div className="grid grid-cols-2 place-items-center p-4">
-<div className="flex flex-col w-150">
+            <div className="grid lg:grid-cols-2 place-items-center p-4 lg:space-y-0 space-y-10">
+<div className="flex flex-col lg:w-150 w-auto ">
     <h1 className="font-bold text-4xl mb-3">Get In Touch</h1>
-    <p className="w-120 poppins-medium text-gray-700 mb-2 mt-3">If you have any questions, feel free to contact me by fill this form or contact me below this</p>
+    <p className="lg:w-120 w-100 poppins-medium text-gray-700 mb-2 mt-3">If you have any questions, feel free to contact me by fill this form or contact me below this</p>
     <div className="block space-y-5 mt-5">
         <a href="" className="flex items-center gap-3 shadow shadow-black w-75 p-4 rounded-xl">
   <i className="fa-brands fa-github text-xl"></i>

@@ -6,7 +6,7 @@ export default function QuizzesPage(){
     return (
         <>
         <Navbar/>
-        <div className="flex items-center flex-col justify-center h-300">
+        <div className="flex items-center flex-col justify-center lg:h-300 min-h-screen">
             <h1 className="text-5xl font-bold text-center">Quizzes</h1>
             <p className="text-center poppins-medium">Select the quiz Category</p>
             <ListCategory/>

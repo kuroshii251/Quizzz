@@ -35,7 +35,7 @@ export default function Qna(){
             <p className="text-center text-xl mt-2 font-semibold scroll-effectss text-gray-600 ">Frequently Ask And Question</p>
             <div className="mt-10 scroll-effectss ">
                 {dataQnA.map((items) => (
- <div className="p-5 w-150" key={items.id}>
+ <div className="p-5 lg:w-150 w-100" key={items.id}>
         <div className="flex items-center justify-between">
             <h1 className="font-semibold text-xl">{items.question}</h1>
 <button type="button" onClick={() => handleAccordions(items.id)} className="cursor-pointer">

@@ -6,11 +6,13 @@ export default function Blog2(){
     return (
         <>
         <Navbar/>
-       <div className="flex flex-col justify-center items-center h-300">
+        <div className="flex flex-col items-center justify-center lg:h-400 h-500">
         <div className="col space-y-5">
-            <h1 className="text-3xl font-bold text-center">3 Ways To Increase the IQ </h1>
-            <img src={picture} className="mx-auto rounded-xl object-cover w-200 h-100 " alt="" />
-            <div className="w-250 mt-5 space-y-2">
+            <h1 className="text-3xl lg:w-auto w-120  font-bold text-center">3 Ways To Increase the IQ </h1>
+            <img src={picture} className="mx-auto rounded-lg object-cover lg:w-200 w-100 lg:h-100 h-50 " alt="" />
+            <div className="lg:w-250 w-100 mx-auto mt-5 space-y-2">
+
+                     <p className="text-md">Source: <a href="https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba">https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba</a></p>  
                 <p className="text-lg font-semibold">Having a low IQ is not the end of the world, cause IQ is not the only factor that determine the person's success. But, if you wish have a high IQ, there's a several ways to increase your IQ which you can try</p>
                 <br />
                 <h1 className="font-bold text-lg">1. Trained the brain by games</h1>
@@ -24,11 +26,11 @@ export default function Blog2(){
                 <br />
                 <p className="text-lg font-semibold">In addition to the various methods mentioned above, you can also regularly perform brain exercises to sharpen your intelligence and train your concentration and memory.</p>
                 <br />
-            </div>
-                     <p className="text-md">Source: <a href="https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba">https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba</a></p>  
+                <p className="text-md pt-10">Source: <a href="https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba">https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba</a></p>  
 
             </div>
-        </div>
+</div>
+            </div>
         <Footer/>
         
         </>

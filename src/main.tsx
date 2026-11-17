@@ -18,15 +18,12 @@ import FootballPage from './pages/quizzes/listquizzes/sports/football/main.tsx'
 import FootballEasyLevelPage from './pages/quizzes/listquizzes/sports/football/easylevel/main.tsx'
 import FootballMediumLevelPage from './pages/quizzes/listquizzes/sports/football/mediumlevel/main.tsx'
 import FootballHardLevelPage from './pages/quizzes/listquizzes/sports/football/hardlevel/main.tsx'
-import VolleyBall from './components/listquizzes/sports/volleyball/main.tsx'
 import VolleyBallEasyLevelPage from './pages/quizzes/listquizzes/sports/volleyball/easylevel/main.tsx'
 import VolleyBallMediumLevelPage from './pages/quizzes/listquizzes/sports/volleyball/mediumlevel/main.tsx'
 import BasketBallHardLevelPage from './pages/quizzes/listquizzes/sports/basketball/hardlevel/main.tsx'
 import BasketBallMediumLevelPage from './pages/quizzes/listquizzes/sports/basketball/main.tsx'
 import BasketBallEasyLevelPage from './pages/quizzes/listquizzes/sports/basketball/easylevel/main.tsx'
-import BasketBall from './components/listquizzes/sports/basket/main.tsx'
 import BadmintonMediumLevelPage from './pages/quizzes/listquizzes/sports/badminton/mediumlevel/main.tsx'
-import Badminton from './components/listquizzes/sports/badminton/main.tsx'
 import GumballPage from './pages/quizzes/listquizzes/cartoon/gumball/main.tsx'
 import SpongebobPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/main.tsx'
 import ChemistryEasyLevelPage from './pages/quizzes/listquizzes/sciences/chemistry/easylevel/main.tsx'
@@ -62,6 +59,9 @@ import SpongebobHardLevelPage from './pages/quizzes/listquizzes/cartoon/spongebo
 import SpongebobMediumLevelPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/mediumlevel/main.tsx'
 import SpongebobEasyLevelPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/easylevel/main.tsx'
 import TomandjerryPage from './pages/quizzes/listquizzes/cartoon/tomandjerry/main.tsx'
+import BadmintonPage from './pages/quizzes/listquizzes/sports/badminton/main.tsx'
+import BasketBallPage from './pages/quizzes/listquizzes/sports/basketball/main.tsx'
+import VolleyBallPage from './pages/quizzes/listquizzes/sports/volleyball/main.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -83,14 +83,14 @@ createRoot(document.getElementById('root')!).render(
      <Route path='/quizzes/sports/football/1' element={<FootballEasyLevelPage/>}/>
      <Route path='/quizzes/sports/football/2' element={<FootballMediumLevelPage/>}/>
      <Route path='/quizzes/sports/football/3' element={<FootballHardLevelPage/>}/>
-     <Route path='/quizzes/sports/badminton' element={<Badminton/>}/>
+     <Route path='/quizzes/sports/badminton' element={<BadmintonPage/>}/>
      <Route path='/quizzes/sports/badminton/1' element={<BadmintonEasyLevelPage/>}/>
      <Route path='/quizzes/sports/badminton/2' element={<BadmintonMediumLevelPage/>}/>
-     <Route path='/quizzes/sports/basketball' element={<BasketBall/>}/>
+     <Route path='/quizzes/sports/basketball' element={<BasketBallPage/>}/>
      <Route path='/quizzes/sports/basketball/1' element={<BasketBallEasyLevelPage/>}/>
      <Route path='/quizzes/sports/basketball/2' element={<BasketBallMediumLevelPage/>}/>
      <Route path='/quizzes/sports/basketball/3' element={<BasketBallHardLevelPage/>}/>
-     <Route path='/quizzes/sports/volleyball' element={<VolleyBall/>}/>
+     <Route path='/quizzes/sports/volleyball' element={<VolleyBallPage/>}/>
      <Route path='/quizzes/sports/volleyball/1' element={<VolleyBallEasyLevelPage/>}/>
      <Route path='/quizzes/sports/volleyball/2' element={<VolleyBallMediumLevelPage/>}/>
        <Route path='/quizzes/cartoon/' element={<Cartoon/>}/>
