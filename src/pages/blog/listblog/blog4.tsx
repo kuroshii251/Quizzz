@@ -27,7 +27,7 @@ export default function Blog4(){
                 <h1 className="text-lg font-bold">3. Helps managing stress</h1>
                 <p className=" text-lg font-semibold">The rest time between working session gives room for relaxation and calming the mind. Stress that emerges cause pilling up of work making it easy to handle.</p>
             </div>
-                     <p className="text-md">Source: https://www.alodokter.com/teknik-pomodoro-cara-efektif-tingkatkan-fokus-dan-produktivitas</p>  
+                     <p className="text-md">Source: <a href="https://www.alodokter.com/teknik-pomodoro-cara-efektif-tingkatkan-fokus-dan-produktivitas">https://www.alodokter.com/teknik-pomodoro-cara-efektif-tingkatkan-fokus-dan-produktivitas</a></p>  
 
         </div>
         </div>

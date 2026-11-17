@@ -6,7 +6,6 @@ export default function FootballMediumLevelPage(){
     return (
         <>
         <Navbar/>
-
         <FootballMediumLevel/>
 
         <Footer/>

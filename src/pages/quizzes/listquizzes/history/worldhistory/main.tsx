@@ -1,6 +1,6 @@
 import WorldHistory from "../../../../../components/listquizzes/history/worldhistory/main";
-import Footer from "../../../../components/home/footer";
-import Navbar from "../../../../components/home/navbar";
+import Footer from "../../../../../components/home/footer";
+import Navbar from "../../../../../components/home/navbar";
 
 export default function WorldHistoryPage(){
     return (

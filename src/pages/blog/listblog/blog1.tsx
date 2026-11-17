@@ -29,7 +29,7 @@ export default function Blog1(){
             <h1 className="text-lg font-bold">5. Make learning target</h1>
             <p className="text-lg">Setting learning targets is an important aspect of the learning process, as it helps you understand what you should aim to achieve by the end of your study. For instance, if you are studying Calculus, you need to determine which chapters should be covered first.</p>      
             </div>
-         <p className="text-md">Source: https://perpustakaan.itsb.ac.id/5-tips-meningkatkan-konsentrasi-saat-belajar/</p>      </div>
+         <p className="text-md ">Source: <a href="https://perpustakaan.itsb.ac.id/5-tips-meningkatkan-konsentrasi-saat-belajar/">https://perpustakaan.itsb.ac.id/5-tips-meningkatkan-konsentrasi-saat-belajar/</a></p>      </div>
 
         </div>
         <Footer/>

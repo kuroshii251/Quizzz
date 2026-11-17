@@ -3,55 +3,55 @@
         "id": 1,
         "question": "What is the first element on the periodic table?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Helium",
+            "Hydrogen",
+            "Lithium",
+            "Oxygen"
         ],
-        "answer": ""
+        "answer": "Hydrogen"
     },
     {
         "id": 2,
         "question": "What is the centre of an atom called?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Nucleus",
+            "Molecule",
+            "Proton",
+            "Electron"
         ],
-        "answer": ""
+        "answer": "Nucleus"
     },
     {
         "id": 3,
         "question": "What is the main gas found in the air we breathe?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Carbon Dioxide",
+            "Oxygen",
+            "Argon",
+            "Nitrogen"
         ],
-        "answer": ""
+        "answer": "Nitrogen"
     },
     {
         "id": 4,
         "question": "What is the chemical symbol for gold?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ag",
+            "Au",
+            "Gd",
+            "Go"
         ],
-        "answer": ""
+        "answer": "Au"
     },
     {
         "id": 5,
         "question": "What orbits the nucleus of an atom?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Protons",
+            "Electrons",
+            "Neutrons",
+            "Quarks"
         ],
-        "answer": ""
+        "answer": "Electrons"
     }
 ]

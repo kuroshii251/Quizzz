@@ -4,22 +4,22 @@ export default function VolleyBall(){
     return (
         <>
         <div className="flex flex-col justify-center items-center min-h-screen">
-            <h1 className="text-3xl text-center font-bold">Select The Level</h1>
-            <div className="grid grid-cols-2 gap-5 place-items-center">
-                <div className="items-center flex flex-col scale-100 shadow shadow-black p-5 rounded-xl  ">
-                    <h1 className="text-center font-bold text-xl">Level Easy</h1>
-                    <a href="/quizzes/sports/volleyball/1" className="text-white text-center bg-blue-700 p-3 px-6 py-3 rounded-xl w-auto mx-auto">Start</a>
+            <h1 className="text-5xl text-center font-bold">Difficulty</h1>
+            <p className="text-center text-xl font-semibold">Select Difficulty</p>
+            <div className="grid grid-cols-2 space-x-10 place-items-center justify-center items-center h-80">
+               <a href="/quizzes/sports/volleyball/1" className="border-1 object-cover h-50  p-10 shadow shadow-black w-100 scroll-effectss  rounded-xl">
+               <div className="flex justify-center items-center h-30">
+               <h1 className="text-center font-bold text-4xl">Easy</h1>
 
-                </div>
-                 <div className="shadow shadow-black p-5 rounded-xl  ">
-                    <h1 className="text-center font-bold text-xl">Level Medium</h1>
-                    <a href="/quizzes/sports/volleyball/2" className="text-white bg-blue-700 p-3 rounded-xl w-50 mx-auto">Start</a>
-                </div>
+               </div>
 
-                 <div className="shadow shadow-black p-5 rounded-xl  ">
-                    <h1 className="text-center font-bold text-xl">Level Hard</h1>
-                    <a href="/quizzes/sports/volleyball/3" className="text-white bg-blue-700 p-3 rounded-xl w-50 mx-auto">Start</a>
-                </div>
+              </a>
+              <a href="/quizzes/sports/volleyball/2" className="border-1 object-cover h-50 p-10 shadow shadow-black w-100 scroll-effectss  rounded-xl">
+               <div className="flex justify-center items-center h-30">
+               <h1 className="text-center font-bold text-4xl">Medium</h1>
+               </div>
+               
+              </a>
             </div>
 
         </div>        

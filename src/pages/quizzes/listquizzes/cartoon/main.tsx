@@ -1,14 +1,14 @@
 import Footer from "../../../../components/home/footer";
 import Navbar from "../../../../components/home/navbar";
-import Tomandjerry from "../../../../components/listquizzes/cartoon/tomandjerry/main";
+import Cartoons from "../../../../components/listquizzes/cartoon/main";
 
-export default function TomandJerryPage(){
+export default function Cartoon(){
     return (
         <>
         <Navbar/>
 
         <div className="flex flex-col justify-center items-center">
-<Tomandjerry/>
+<Cartoons/>
         </div>
 
         <Footer/>

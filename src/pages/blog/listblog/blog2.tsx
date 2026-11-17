@@ -25,7 +25,7 @@ export default function Blog2(){
                 <p className="text-lg font-semibold">In addition to the various methods mentioned above, you can also regularly perform brain exercises to sharpen your intelligence and train your concentration and memory.</p>
                 <br />
             </div>
-                     <p className="text-md">Source: https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba</p>  
+                     <p className="text-md">Source: <a href="https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba">https://www.alodokter.com/9-cara-meningkatkan-iq-yang-bisa-anda-coba</a></p>  
 
             </div>
         </div>

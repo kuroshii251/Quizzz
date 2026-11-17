@@ -6,13 +6,10 @@ export default function QuizzesPage(){
     return (
         <>
         <Navbar/>
-        <div className="flex items-center flex-col justify-center min-h-screen">
+        <div className="flex items-center flex-col justify-center h-300">
             <h1 className="text-5xl font-bold text-center">Quizzes</h1>
             <p className="text-center poppins-medium">Select the quiz Category</p>
             <ListCategory/>
-            <div className="">
-
-            </div>
         </div>
         <Footer/>
         </>

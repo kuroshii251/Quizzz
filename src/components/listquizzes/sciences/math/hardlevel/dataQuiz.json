@@ -12,46 +12,46 @@
     },
     {
         "id": 2,
-        "question": "If < x < y < z which the following has the greatest value?",
+        "question": "If x > y > z which the following has the greatest value?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "x-z",
+            "x-y",
+            "z-x",
+            "y-x"
         ],
-        "answer": ""
+        "answer": "x-z"
     },
     {
         "id": 3,
         "question": "Three squares have sides with lengths a, b, and c. If is 20% greater than a and c is 25% greater than b, then by what percent is the area of the largest square greater than the area of the smallest square?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "100%",
+            "120%",
+            "125%",
+            "130%"
         ],
-        "answer": ""
+        "answer": "125%"
     },
     {
         "id": 4,
-        "question": "if 𝑓(𝑥) = 5𝑥²-3 and 𝑓(𝑥+𝑎) = 5𝑥² + 30𝑥 + 42, what is the value of a?",
+        "question": "A tank contains mixture of water and alcohol in a ratio of 7:6, if 3 liters of alcohol added to the tank , the ratio of water to alcohol becomes 7:8. The amount of water inside is",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "10.5",
+            "10",
+            "11",
+            "12.5"
         ],
-        "answer": ""
+        "answer": "10.5"
     },
     {
         "id": 5,
-        "question": "The average (arithmetic mean) of the integers from 200 to 400 , inclusive, is how much greather than the average of the integers from 50 to 100 , inclusive",
+        "question": "The average (arithmetic mean) of the integers from 10 to 300 , inclusive, is how much greather than the average of the integers from 50 to 100 , inclusive",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "100",
+            "80",
+            "115",
+            "75"
         ],
-        "answer": ""
+        "answer": "80"
     }
 ]

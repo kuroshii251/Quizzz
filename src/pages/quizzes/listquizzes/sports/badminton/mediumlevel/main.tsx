@@ -1,13 +1,13 @@
 import Footer from "../../../../../../components/home/footer";
 import Navbar from "../../../../../../components/home/navbar";
-import BadmintonEasyLevel from "../../../../../../components/listquizzes/sports/badminton/easylevel/easylevel";
+import BadmintonMediumLevel from "../../../../../../components/listquizzes/sports/badminton/mediumlevel/mediumlevel";
 
 export default function BadmintonMediumLevelPage(){
     return (
         <>
         <Navbar/>
 
-        <BadmintonEasyLevel/>
+        <BadmintonMediumLevel/>
 
         <Footer/>
         </>

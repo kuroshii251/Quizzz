@@ -1,12 +1,12 @@
 import Footer from "../../../../components/home/footer";
 import Navbar from "../../../../components/home/navbar";
-import Sportss from "../../../../components/listquizzes/sports/main";
+import Sciencess from "../../../../components/listquizzes/sciences/main";
 
 export default function Sciences(){
     return (
         <>
         <Navbar/>
-    <Sportss/>
+    <Sciencess/>
         <Footer/>
         
         </>

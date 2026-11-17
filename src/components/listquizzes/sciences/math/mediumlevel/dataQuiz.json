@@ -12,46 +12,46 @@
     },
     {
         "id": 2,
-        "question": "A mouse costs £12, a bee costs £18, and a spider costs $17. How much does a duck cost?",
+        "question": "A grasshopper costs $34, a butterfly costs $30, and a ant costs $2. How much does a bee cost?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "$22",
+            "$18",
+            "$8",
+            "$35"
         ],
-        "answer": ""
+        "answer": "$18"
     },
     {
         "id": 3,
-        "question": "There were some people on a train. 19 people get off the train at the first stop. 17 people get on the train. Now there are 63 people on the train. How many people were on the train to begin with?",
+        "question": "There were some people on a bus. 13 people get off the train at the first stop. 35 people get on the train. Now there are 73 people on the train. How many people were on the train to begin with?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "96",
+            "49",
+            "51",
+            "48"
         ],
-        "answer": ""
+        "answer": "51"
     },
     {
         "id": 4,
-        "question": "",
+        "question": "The probbbility of the kids throwing the ball into the ring is  3/4. If the kids throw this ball 7 times, the probability of success for all those throws is  ",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "0.1444",
+            "0.133",
+            "0.136",
+            "0.121"
         ],
-        "answer": ""
+        "answer": "0.133"
     },
     {
         "id": 5,
-        "question": "The least common multiple of two prime numbers, x and y is 14 where x > y. The value of 3x - y is",
+        "question": "The least common multiple of two prime numbers, x and y is 8 where x > y. The value of 5x - y is",
         "options": [
             "13",
-            "-1",
-            "19",
+            "7",
+            "18",
             "21"
         ],
-        "answer": ""
+        "answer": "18"
     }
 ]

@@ -1,57 +1,57 @@
 [
     {
         "id": 1,
-        "question": "",
+        "question": "What is the SI unit of energy?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Volt",
+            "Joule",
+            "Watt",
+            "Kilogram"
         ],
-        "answer": ""
+        "answer": "Watt"
     },
     {
         "id": 2,
-        "question": "",
+        "question": "What is the Na mean?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Argon",
+            "Scandium",
+            "Potassium",
+            "Natrium"
         ],
-        "answer": ""
+        "answer": "Natrium"
     },
     {
         "id": 3,
-        "question": "",
+        "question": "Which the following minerals doesn't occur in an alkali form in nature?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "carnalitte",
+            "borax",
+            "baryte",
+            "sylvite"
         ],
-        "answer": ""
+        "answer": "baryte"
     },
     {
         "id": 4,
-        "question": "",
+        "question": "Alkali metals that are metallic in nature is ",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Rb",
+            "Na",
+            "K",
+            "Fr"
         ],
-        "answer": ""
+        "answer": "Fr"
     },
     {
         "id": 5,
-        "question": "What orbits the nucleus of an atom?",
+        "question": "In this below, there's the atomic numbers of metals is",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "8",
+            "17",
+            "11",
+            "18"
         ],
-        "answer": ""
+        "answer": "11"
     }
 ]

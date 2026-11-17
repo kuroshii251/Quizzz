@@ -26,18 +26,9 @@ import BasketBallMediumLevelPage from './pages/quizzes/listquizzes/sports/basket
 import BasketBallEasyLevelPage from './pages/quizzes/listquizzes/sports/basketball/easylevel/main.tsx'
 import BasketBall from './components/listquizzes/sports/basket/main.tsx'
 import BadmintonMediumLevelPage from './pages/quizzes/listquizzes/sports/badminton/mediumlevel/main.tsx'
-import BadmintonEasyLevelPage from './pages/quizzes/listquizzes/sports/badminton/easylevel/main.tsx'
 import Badminton from './components/listquizzes/sports/badminton/main.tsx'
-import GumballMediumLevel from './components/listquizzes/cartoon/gumball/mediumlevel/main.tsx'
-import GumballEasyLevel from './components/listquizzes/cartoon/gumball/easylevel/main.tsx'
-import TomandjerryMediumLevel from './components/listquizzes/cartoon/tomandjerry/mediumlevel/main.tsx'
-import SpongebobHardLevel from './components/listquizzes/cartoon/spongebobsquarepants/hardlevel/main.tsx'
-import SpongebobMediumLevel from './components/listquizzes/cartoon/spongebobsquarepants/mediumlevel/main.tsx'
-import SpongebobEasyLevel from './components/listquizzes/cartoon/spongebobsquarepants/easylevel/main.tsx'
 import GumballPage from './pages/quizzes/listquizzes/cartoon/gumball/main.tsx'
-import TomandJerryPage from './pages/quizzes/listquizzes/cartoon/main.tsx'
 import SpongebobPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/main.tsx'
-import CartoonPage from './components/listquizzes/cartoon/main.tsx'
 import ChemistryEasyLevelPage from './pages/quizzes/listquizzes/sciences/chemistry/easylevel/main.tsx'
 import ChemistryMediumLevelPage from './pages/quizzes/listquizzes/sciences/chemistry/mediumlevel/main.tsx'
 import ChemistryPage from './pages/quizzes/listquizzes/sciences/chemistry/main.tsx'
@@ -56,13 +47,21 @@ import MammalMediumLevelPage from './pages/quizzes/listquizzes/animals/mammal/me
 import MammalEasyLevelPage from './pages/quizzes/listquizzes/animals/mammal/easylevel/main.tsx'
 import MammalPage from './pages/quizzes/listquizzes/animals/mammal/main.tsx'
 import HistoryPage from './pages/quizzes/listquizzes/history/main.tsx'
-import AncientHistoryEasyLevel from './components/listquizzes/history/ancienthistory/easylevel/main.tsx'
 import WorldHistoryPage from './pages/quizzes/listquizzes/history/worldhistory/main.tsx'
-import AncientHistoryMediumLevel from './components/listquizzes/history/ancienthistory/mediumlevel/main.tsx'
 import AncientHistoryMediumLevelPage from './pages/quizzes/listquizzes/history/ancienthistory/mediumlevel/main.tsx'
 import AncientHistoryEasyLevelPage from './pages/quizzes/listquizzes/history/ancienthistory/easylevel/main.tsx'
 import AncientHistoryPage from './pages/quizzes/listquizzes/history/ancienthistory/main.tsx'
 import WorldHistoryMediumLevelPage from './pages/quizzes/listquizzes/history/worldhistory/mediumlevel/main.tsx'
+import BadmintonEasyLevelPage from './pages/quizzes/listquizzes/sports/badminton/easylevel/main.tsx'
+import Cartoon from './pages/quizzes/listquizzes/cartoon/main.tsx'
+import Animal from './pages/quizzes/listquizzes/animals/main.tsx'
+import TomandjerryMediumLevelPage from './pages/quizzes/listquizzes/cartoon/tomandjerry/mediumlevel/main.tsx'
+import GumballMediumLevelPage from './pages/quizzes/listquizzes/cartoon/gumball/mediumlevel/main.tsx'
+import GumballEasyLevelPage from './pages/quizzes/listquizzes/cartoon/gumball/easylevel/main.tsx'
+import SpongebobHardLevelPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/hardlevel/main.tsx'
+import SpongebobMediumLevelPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/mediumlevel/main.tsx'
+import SpongebobEasyLevelPage from './pages/quizzes/listquizzes/cartoon/spongebobsquarepants/easylevel/main.tsx'
+import TomandjerryPage from './pages/quizzes/listquizzes/cartoon/tomandjerry/main.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -81,30 +80,30 @@ createRoot(document.getElementById('root')!).render(
       <Route path='/quizzes/sports/athletic/1' element={<AthleticEasyLevelPage/>} />
      <Route path='/quizzes/sports/athletic/2' element={<AthleticMediumLevelPage/>} />
      <Route path='/quizzes/sports/football' element={<FootballPage/>}/>
-     <Route path='/quizzes/spots/football/1' element={<FootballEasyLevelPage/>}/>
+     <Route path='/quizzes/sports/football/1' element={<FootballEasyLevelPage/>}/>
      <Route path='/quizzes/sports/football/2' element={<FootballMediumLevelPage/>}/>
      <Route path='/quizzes/sports/football/3' element={<FootballHardLevelPage/>}/>
      <Route path='/quizzes/sports/badminton' element={<Badminton/>}/>
-     <Route path='/quizzes/spots/badminton/1' element={<BadmintonEasyLevelPage/>}/>
+     <Route path='/quizzes/sports/badminton/1' element={<BadmintonEasyLevelPage/>}/>
      <Route path='/quizzes/sports/badminton/2' element={<BadmintonMediumLevelPage/>}/>
      <Route path='/quizzes/sports/basketball' element={<BasketBall/>}/>
-     <Route path='/quizzes/spots/basketball/1' element={<BasketBallEasyLevelPage/>}/>
+     <Route path='/quizzes/sports/basketball/1' element={<BasketBallEasyLevelPage/>}/>
      <Route path='/quizzes/sports/basketball/2' element={<BasketBallMediumLevelPage/>}/>
      <Route path='/quizzes/sports/basketball/3' element={<BasketBallHardLevelPage/>}/>
      <Route path='/quizzes/sports/volleyball' element={<VolleyBall/>}/>
-     <Route path='/quizzes/spots/volleyball/1' element={<VolleyBallEasyLevelPage/>}/>
+     <Route path='/quizzes/sports/volleyball/1' element={<VolleyBallEasyLevelPage/>}/>
      <Route path='/quizzes/sports/volleyball/2' element={<VolleyBallMediumLevelPage/>}/>
-       <Route path='/quizzes/cartoon/' element={<CartoonPage/>}/>
-      <Route path='/quizzes/cartoon/spongebobsquarepants' element={<SpongebobPage/>}/>
-      <Route path='/quizzes/cartoon/spongebobsquarepants/1' element={<SpongebobEasyLevel/>}/>
-      <Route path='/quizzes/cartoon/spongebobsquarepants/2' element={<SpongebobMediumLevel/>}/>
-      <Route path='/quizzes/cartoon/spongebobsquarepants/3' element={<SpongebobHardLevel/>}/>
-       <Route path='/quizzes/cartoon/tomandjerry' element={<TomandJerryPage/>}/>
-        <Route path='/quizzes/cartoon/tomandjerry/1' element={<TomandjerryMediumLevel/>}/>
-      <Route path='/quizzes/cartoon/tomandjerry/2' element={<TomandjerryMediumLevel/>}/>
+       <Route path='/quizzes/cartoon/' element={<Cartoon/>}/>
+      <Route path='/quizzes/cartoon/spongebob' element={<SpongebobPage/>}/>
+      <Route path='/quizzes/cartoon/spongebob/1' element={<SpongebobEasyLevelPage/>}/>
+      <Route path='/quizzes/cartoon/spongebob/2' element={<SpongebobMediumLevelPage/>}/>
+      <Route path='/quizzes/cartoon/spongebob/3' element={<SpongebobHardLevelPage/>}/>
+      <Route path='/quizzes/cartoon/tomandjerry' element={<TomandjerryPage/>}/>
+      <Route path='/quizzes/cartoon/tomandjerry/1' element={<TomandjerryMediumLevelPage/>}/>
+      <Route path='/quizzes/cartoon/tomandjerry/2' element={<TomandjerryMediumLevelPage/>}/>
        <Route path='/quizzes/cartoon/gumball' element={<GumballPage/>}/>
-       <Route path='/quizzes/cartoon/gumball/1' element={<GumballEasyLevel/>}/>
-       <Route path='/quizzes/cartoon/gumball/2' element={<GumballMediumLevel/>}/>
+       <Route path='/quizzes/cartoon/gumball/1' element={<GumballEasyLevelPage/>}/>
+       <Route path='/quizzes/cartoon/gumball/2' element={<GumballMediumLevelPage/>}/>
        <Route path='/quizzes/sciences' element={<Sciences/>}/>
        <Route path='/quizzes/sciences/math' element={<MathPage/>}/>
        <Route path='/quizzes/sciences/math/1' element={<MathEasyLevelPage/>}/>
@@ -116,21 +115,21 @@ createRoot(document.getElementById('root')!).render(
       <Route path='/quizzes/sciences/chemistry' element={<ChemistryPage/>}/>
        <Route path='/quizzes/sciences/chemistry/1' element={<ChemistryEasyLevelPage/>}/>
        <Route path='/quizzes/sciences/chemistry/2' element={<ChemistryMediumLevelPage/>}/>
+                  <Route path='/quizzes/animals/' element={<Animal/>}/>
+                  <Route path='/quizzes/animals/reptiles' element={<ReptilesPage/>}/>
+                  <Route path='/quizzes/animals/reptiles/1' element={<ReptilesEasyLevelPage/>}/>
+                  <Route path='/quizzes/animals/reptiles/2' element={<ReptilesMediumLevelPage/>}/>
+                  <Route path='/quizzes/animals/mammals' element={<MammalPage/>}/>
+                  <Route path='/quizzes/animals/mammals/1' element={<MammalEasyLevelPage/>}/>
+                  <Route path='/quizzes/animals/mammals/2' element={<MammalMediumLevelPage/>}/>
 
-                <Route path='/quizzes/animals/reptiles' element={<ReptilesPage/>}/>
-                <Route path='/quizzes/animals/reptiles/1' element={<ReptilesEasyLevelPage/>}/>
-                <Route path='/quizzes/animals/reptiles/2' element={<ReptilesMediumLevelPage/>}/>
-                <Route path='/quizzes/animals/mammal' element={<MammalPage/>}/>
-                <Route path='/quizzes/animals/mammal/1' element={<MammalEasyLevelPage/>}/>
-                <Route path='/quizzes/animals/mammal/2' element={<MammalMediumLevelPage/>}/>
-
-                <Route path='/quizzes/history/' element={<HistoryPage/>}/>
-                <Route path='/quizzes/history/worldhistory' element={<WorldHistoryPage/>}/>
-                <Route path='/quizzes/history/worldhistory/1' element={<AncientHistoryEasyLevelPage/>}/>
-                <Route path='/quizzes/history/worldhistory/2' element={<WorldHistoryMediumLevelPage/>}/>
-                <Route path='/quizzes/history/ancienthistory' element={<AncientHistoryPage/>}/>
-                <Route path='/quizzes/history/ancienthistory/1' element={<AncientHistoryEasyLevelPage/>}/>
-                <Route path='/quizzes/history/ancienthistory/2' element={<AncientHistoryMediumLevelPage/>}/>
+                  <Route path='/quizzes/history/' element={<HistoryPage/>}/>
+                  <Route path='/quizzes/history/worldhistory' element={<WorldHistoryPage/>}/>
+                  <Route path='/quizzes/history/worldhistory/1' element={<AncientHistoryEasyLevelPage/>}/>
+                  <Route path='/quizzes/history/worldhistory/2' element={<WorldHistoryMediumLevelPage/>}/>
+                  <Route path='/quizzes/history/ancienthistory' element={<AncientHistoryPage/>}/>
+                  <Route path='/quizzes/history/ancienthistory/1' element={<AncientHistoryEasyLevelPage/>}/>
+                  <Route path='/quizzes/history/ancienthistory/2' element={<AncientHistoryMediumLevelPage/>}/>
 
 
 

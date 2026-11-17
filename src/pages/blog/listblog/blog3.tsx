@@ -32,7 +32,7 @@ export default function Blog3(){
                  <h1 className="text-lg font-bold">5. Make the mind map</h1>
                 <p className="text-lg font-semibold">Mind mapping is a process of mapping out thoughts to connect concepts related to a specific issue. The resulting output serves as a direct representation of how connections function within the brain. This method can also help develop creative thinking.</p>
             </div>
-                     <p className="text-md">Source: https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran
+                     <p className="text-md">Source: <a href="https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran">https://www.ruangguru.com/blog/9-cara-cermat-agar-cepat-memahami-pelajaran</a>
                         </p>
                         </div>
         </div>

@@ -1,13 +1,13 @@
 import Footer from "../../../../../../components/home/footer";
 import Navbar from "../../../../../../components/home/navbar";
-import WorldHistoryEasyLevel from "../../../../../../components/listquizzes/history/worldhistory/easylevel/main";
+import WorldHistoryMediumLevel from "../../../../../../components/listquizzes/history/worldhistory/mediumlevel/main";
 
 export default function WorldHistoryMediumLevelPage(){
     return (
         <>
         <Navbar/>
 
-        <WorldHistoryEasyLevel/>
+        <WorldHistoryMediumLevel/>
 
         <Footer/>
         </>

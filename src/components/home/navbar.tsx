@@ -13,7 +13,7 @@ export default function Navbar(){
                 <div className="flex justify-center items-center gap-5">
                         <a href="/" className="font-semibold text-grat-900 hover:">Home</a>
                         <div className="flex">
-                         <a href="quizzes"  className="font-semibold text-gray-900 hover:">Quiz</a>
+                         <a href="/quizzes"  className="font-semibold text-gray-900 hover:">Quiz</a>
                             <button onClick={() => setDropdown(!dropdown)} >
 <i className="fa-solid fa-caret-down"></i>
                             </button>
@@ -23,7 +23,7 @@ export default function Navbar(){
                 <div className="flex items-end justify-end">
                     <a href="/contact" className="bg-blue-600 rounded-full p-3 font-semibold text-lg text-white w-30 text-center">Contact</a>
                 </div>
-                <div className={`bg-slate-100 p-3 translate-x-140 w-50 space-y-3 ${dropdown ? "block" : "hidden"}`}>
+                <div className={`bg-slate-100 p-3 absolute z-1000 translate-y-35 rounded-md translate-x-140 w-50 space-y-3 ${dropdown ? "block" : "hidden"}`}>
                     <div className="">
                     <a href="/quizzes/sports" className="font-semibold">Sports</a>
 

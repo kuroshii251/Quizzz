@@ -10,7 +10,7 @@ export default function Qna(){
          {
             "id": 0,
             "question": "What is Quizz?",
-            "answer": "Quiz is an online quiz platform where you can tes your knowledge through various categories and difficulty levels."
+            "answer": "Quizz is an online quiz platform where you can tes your knowledge through various categories and difficulty levels."
 },
         {
             "id": 1,
