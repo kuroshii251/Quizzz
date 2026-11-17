@@ -23,7 +23,7 @@ export default function Footer(){
                     <a href="/quizzes/sciences" className="text-white hover:text-gray-500">Sciences</a>
                     <a href="/quizzes/cartoon" className="text-white hover:text-gray-500">Cartoon</a>
                     <a href="/quizzes/history" className="text-white hover:text-gray-500">History</a>
-                    <a href="/quizzes/animal" className="text-white hover:text-gray-500">Animal</a>
+                    <a href="/quizzes/animals" className="text-white hover:text-gray-500">Animal</a>
                     </div>
                 </div>
             </div>
